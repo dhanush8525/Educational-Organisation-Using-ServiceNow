@@ -1,4 +1,4 @@
-# 🎓 Educational Management System on ServiceNow
+# 🎓 EDUCATIONAL ORGANIZATION USING SERVICE NOW
 
 A fully functional **Educational Management System** built on the **ServiceNow Platform (PDI)** to streamline and automate the admission process, student progress tracking, and centralized student data management — using low-code and no-code capabilities.
 
@@ -7,7 +7,7 @@ A fully functional **Educational Management System** built on the **ServiceNow P
 ## 🎬 Demo
 
 📺 **Watch Demo Video**  
-🔗 [Click to View on Google Drive](#) *([Demo Video](https://drive.google.com/file/d/1IK-KkvGKIq3eBN5_hscPXYRqqfPmJSlB/view?usp=sharing))*
+🔗 [Click to View on ](#) *([👉](https://drive.google.com/file/d/1IK-KkvGKIq3eBN5_hscPXYRqqfPmJSlB/view?usp=sharing))*
 
 ---
 
@@ -74,7 +74,7 @@ To **digitize and streamline educational workflows** such as admissions, student
 - 📊 Student Progress Form with Calculated Fields  
 - 🔢 Admission Numbers Auto-Generated  
 - 🔐 Role-Based Views (Admin / Teacher / Student)  
-*(Include screenshots here or link to Google Drive)*
+
 
 ---
 
