@@ -1,4 +1,4 @@
-# 🎓 nm project – Educational Management System on ServiceNow
+# 🎓 Educational Management System on ServiceNow
 
 A fully functional **Educational Management System** built on the **ServiceNow Platform (PDI)** to streamline and automate the admission process, student progress tracking, and centralized student data management — using low-code and no-code capabilities.
 
