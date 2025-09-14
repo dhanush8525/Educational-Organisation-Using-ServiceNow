@@ -7,7 +7,7 @@ A fully functional **Educational Management System** built on the **ServiceNow P
 ## 🎬 Demo
 
 📺 **Watch Demo Video**  
-🔗 (#) *([👉[Click to View on Demo Video ]](https://drive.google.com/file/d/1IK-KkvGKIq3eBN5_hscPXYRqqfPmJSlB/view?usp=sharing))*
+🔗 (#) *([👉[Click to View on Demo Video ]](https://drive.google.com/file/d/17SvE6RIqO4mstDYHMXn2Dau9_my8sMJM/view?usp=drivesdk))*
 
 ---
 
